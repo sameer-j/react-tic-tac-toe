@@ -12,7 +12,7 @@ a tic-tac-toe game that:
 - Allows players to review a game’s history and see previous versions of a game’s board.
 
 ## TO DO:  
-- [ ] Basic App
+- [x] Basic App
 - [ ] Time Travel - Going to a older moveset
 - [ ] Improvements
   - [ ] Display the location for each move in the format (col, row) in the move history list.
@@ -22,10 +22,11 @@ a tic-tac-toe game that:
   - [ ] When someone wins, highlight the three squares that caused the win.
   - [ ] When no one wins, display a message about the result being a draw.
 - [ ] Themefy using Context API
-- [ ] Convert to functional componets and state mgmt using hooks
+- [ ] Convert to functional componets and state mgmt using hooks, branch out for class components
 - [x] Deploy to gh pages
 
 Other ideas (may be crazy):
 - [ ] cross platform: mobile, pwa, desktop app
 - [ ] Sync across devices
 - [ ] User management including login, history of wins, sequence of moves in older games
+- [ ] Turn based game. Notifies opponent of his turn
