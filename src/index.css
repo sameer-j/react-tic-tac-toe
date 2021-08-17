@@ -7,6 +7,16 @@ ol, ul {
   padding-left: 30px;
 }
 
+ol {
+  columns: 4;
+  -webkit-columns: 4;
+  -moz-columns: 4;
+}
+
+li {
+  margin-right: 10px;
+}
+
 .board-row:after {
   clear: both;
   content: "";

@@ -13,7 +13,8 @@ a tic-tac-toe game that:
 
 ## TO DO:  
 - [x] Basic App
-- [ ] Time Travel - Going to a older moveset
+- [x] Time Travel - Going to a older moveset
+- [ ] Game Reset or Start New 
 - [ ] Improvements
   - [ ] Display the location for each move in the format (col, row) in the move history list.
   - [ ] Bold the currently selected item in the move list.
@@ -22,7 +23,7 @@ a tic-tac-toe game that:
   - [ ] When someone wins, highlight the three squares that caused the win.
   - [ ] When no one wins, display a message about the result being a draw.
 - [ ] Themefy using Context API
-- [ ] Convert to functional componets and state mgmt using hooks, branch out for class components
+- [ ] Convert to functional components and state mgmt using hooks, branch out for class components
 - [x] Deploy to gh pages
 
 Other ideas (may be crazy):
