@@ -1,5 +1,7 @@
 # Tic Tac Toe - Game using React
 
+Play the game [here](https://sameer-j.github.io/react-tic-tac-toe)
+
 A learning project based on the [official tutorial](https://reactjs.org/tutorial/tutorial.html)
 
 a tic-tac-toe game that:
@@ -21,6 +23,7 @@ a tic-tac-toe game that:
   - [ ] When no one wins, display a message about the result being a draw.
 - [ ] Themefy using Context API
 - [ ] Convert to functional componets and state mgmt using hooks
+- [x] Deploy to gh pages
 
 Other ideas (may be crazy):
 - [ ] cross platform: mobile, pwa, desktop app
